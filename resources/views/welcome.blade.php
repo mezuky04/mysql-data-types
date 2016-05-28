@@ -2,7 +2,7 @@
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
-    <title>Mysql Data Types</title>
+    <title>MySQL Data Types</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="style.css" type="text/css">
 </head>
@@ -12,7 +12,7 @@
     <div class="container">
 
         <dviv class="row text-center">
-            <h1 class="white-text">Mysql Data Types</h1>
+            <h1 class="white-text">MySQL Data Types</h1>
         </dviv>
 
         <div class="row">
